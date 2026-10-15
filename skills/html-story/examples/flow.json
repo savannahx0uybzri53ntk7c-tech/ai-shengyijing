@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "example-lunch-handoff",
+  "type": "flow",
+  "title": "示例：先看清午市取餐卡在哪",
+  "description": "虚构教学流程：记录等待，区分情况，再试一项调整并观察，不表示真实经营效果。",
+  "audience": "mixed",
+  "detail": "balanced",
+  "nodes": [
+    {"id": "observe", "label": "记录等待", "note": "只记已知时间"},
+    {"id": "distinguish", "label": "区分原因", "note": "不用猜测填空", "focal": true},
+    {"id": "trial", "label": "试一项调整", "note": "作为待验证建议"},
+    {"id": "review", "label": "核对变化", "note": "没有结果不报成功"}
+  ],
+  "edges": [
+    {"from": "observe", "to": "distinguish", "label": "定位", "kind": "primary"},
+    {"from": "distinguish", "to": "trial", "label": "提出", "kind": "primary"},
+    {"from": "trial", "to": "review", "label": "观察", "kind": "primary"}
+  ],
+  "fidelity_ledger": {"source_node_count": 4, "notes": []},
+  "caption": "虚构教学示例；流程是建议，实施和效果均未验证。"
+}
