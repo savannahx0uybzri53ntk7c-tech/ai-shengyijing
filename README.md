@@ -1,16 +1,24 @@
-# AI 生意经 · Practical Skills for small teams
+# AI 生意经 · AI workflows for real-economy entrepreneurs
 
-Four Chinese-language workflows adapted from a maintained AI-assisted workbench: topic selection,
-article writing, WeChat Moments writing and self-contained HTML storytelling. Prepared and maintained with Codex.
+Open-source AI workflows for real-economy entrepreneurs and business owners: people building and running
+physical stores, manufacturing businesses and in-person services. The goal is to bring AI into concrete
+business work, starting with how owners choose topics, explain products and experience, communicate
+through WeChat Moments, and present ideas or proposals as readable web pages.
+
+The first four Chinese-language Skills cover topic selection, article writing, WeChat Moments writing
+and self-contained HTML storytelling. Adapted from maintained self-use workflows; prepared and maintained with Codex.
 
 [中文使用说明](README.zh-CN.md) · [Skill catalog](skills/README.md) · [Complete synthetic example](skills/examples/README.md)
 
-| Skill | Output |
+| Skill | Business task |
 | --- | --- |
-| [topic-selection](skills/topic-selection/SKILL.md) | A recommended topic, weekly slate, signal-based topic or feedback follow-up |
-| [article-writing](skills/article-writing/SKILL.md) | An article, tutorial, business explanation or focused revision |
-| [moments-writing](skills/moments-writing/SKILL.md) | One natural WeChat Moments post from authorized material |
-| [html-story](skills/html-story/SKILL.md) | A self-contained reading page or presentation; includes an original diagram compiler |
+| [topic-selection](skills/topic-selection/SKILL.md) | Choose a useful topic from customer questions, business situations and available material |
+| [article-writing](skills/article-writing/SKILL.md) | Explain a product, service, method or operating experience in a complete article |
+| [moments-writing](skills/moments-writing/SKILL.md) | Turn an authorized business observation, product explanation or common question into one natural post |
+| [html-story](skills/html-story/SKILL.md) | Present a proposal, introduction or business explanation as a self-contained web page; includes a diagram compiler |
+
+The audience and tasks define this project's focus. Its current public scope is these four workflows;
+customer acquisition, sales and business performance still require real-world use and evidence.
 
 ## Try one task
 
