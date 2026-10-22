@@ -1,5 +1,10 @@
 # AI生意经 · 面向实体创业者与企业家的 AI 经营工作流
 
+<!-- REPOSITORY_RETIRED_20261021 -->
+> **已归档／Archived — 停止维护。** 本仓为历史公开试用版，仅供历史回查；当前个人 Agent 与 Skills 统一由 `AI-Agent-Skills-Private` 私有主仓维护，需现有私仓访问权限。本公开仓不再作为现役 Agent／Skill 版本源。
+> This public trial is no longer maintained. Existing source, license, examples and commit history are retained for reference.
+
+
 **让 AI 进入实体创业者和企业家的真实经营工作。**
 
 围绕门店、制造、实体服务等经营场景，从客户关心的问题出发，把产品、服务、方法与经营经验讲明白，完成朋友圈表达和方案展示。

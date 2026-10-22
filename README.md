@@ -1,5 +1,10 @@
 # AI 生意经 · AI workflows for real-economy entrepreneurs
 
+<!-- REPOSITORY_RETIRED_20261021 -->
+> **已归档／Archived — 停止维护。** 本仓为历史公开试用版，仅供历史回查；当前个人 Agent 与 Skills 统一由 `AI-Agent-Skills-Private` 私有主仓维护，需现有私仓访问权限。本公开仓不再作为现役 Agent／Skill 版本源。
+> This public trial is no longer maintained. Existing source, license, examples and commit history are retained for reference.
+
+
 Open-source AI workflows for real-economy entrepreneurs and business owners: people building and running
 physical stores, manufacturing businesses and in-person services. The goal is to bring AI into concrete
 business work, starting with how owners choose topics, explain products and experience, communicate
